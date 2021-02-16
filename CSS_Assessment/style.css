@@ -1,0 +1,41 @@
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Nav {
+    background-color: grey;
+    text-align: center;
+}
+
+#Left {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    padding: 200px 0px;
+    float: left;
+    height: 50%;
+}
+
+#Right {
+    background-color: red;
+    text-align: center;
+    width: 25%;
+    padding: 200px 0px;
+    float: right;
+    height: 50%;
+    
+}
+#Footer {
+    background-color:green;
+    text-align: center;
+    width: 100%;
+    float:left;
+    position: fixed;
+    bottom: 0;
+   
+
+}
+
+#DivHeader {
+    
+}
